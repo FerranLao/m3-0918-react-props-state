@@ -1,0 +1,11 @@
+
+.simpson{
+    cursor: pointer;
+    border: 1px solid red;
+    user-select: none;
+}
+
+.selected{
+    background: yellow;
+    color:black;
+}
